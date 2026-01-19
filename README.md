@@ -26,6 +26,3 @@ This project is designed to practice core React concepts like **components, stat
 - **CSS3**
 
 ---
-
-## 📂 Project Structure
-
