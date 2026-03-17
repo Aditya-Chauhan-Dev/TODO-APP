@@ -9,7 +9,7 @@ This project is designed to practice core React concepts like **components, stat
 Project ko GitHub Pages par successfully host kiya gaya hai 👇
 
 🔗 Live URL:
-👉 https://aditya-chauhan-dev.github.io/Multi-Page-Website/
+👉 https://aditya-chauhan-dev.github.io/TODO-APP/
 
 
 ---
