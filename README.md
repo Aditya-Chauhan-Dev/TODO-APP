@@ -11,7 +11,6 @@ Project ko GitHub Pages par successfully host kiya gaya hai 👇
 🔗 Live URL:
 👉 https://aditya-chauhan-dev.github.io/TODO-APP/
 
-
 ---
 ## 🚀 Features
 
